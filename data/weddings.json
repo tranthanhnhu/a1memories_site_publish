@@ -12,6 +12,9 @@
       "description": "Hân hạnh được đón tiếp quý khách trong ngày trọng đại của chúng mình.",
       "coverImageUrl": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=1200",
       "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fexample.com%2Fgift%2Fw1",
+      "bankName": "Vietcombank",
+      "accountHolder": "NGUYEN VAN CU",
+      "accountNumber": "0123456789",
       "gallery": [
         "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=600",
         "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&q=80&w=600",
@@ -29,6 +32,9 @@
       "description": "Một buổi chiều ấm áp bên những người thân yêu nhất.",
       "coverImageUrl": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&q=80&w=1200",
       "qrImageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fexample.com%2Fgift%2Fw2",
+      "bankName": "ACB",
+      "accountHolder": "NGUYEN VAN CU",
+      "accountNumber": "9876543210",
       "gallery": [
         "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&q=80&w=600"
       ]
