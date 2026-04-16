@@ -3,11 +3,11 @@
   "events": [
     {
       "id": "w1",
-      "bride": "Minh Anh",
-      "groom": "Quốc Huy",
+      "bride": "Hữu Cường",
+      "groom": "Quốc Anh",
       "date": "2026-04-18",
       "time": "15:00",
-      "location": "Nhà hàng Hoa Sen, Quận 1, TP.HCM",
+      "location": "Nhà nghỉ Hương An, Đà Nẵng",
       "mapUrl": "https://maps.google.com/?q=Nh%C3%A0%20h%C3%A0ng%20Hoa%20Sen%20Qu%E1%BA%ADn%201",
       "description": "Hân hạnh được đón tiếp quý khách trong ngày trọng đại của chúng mình.",
       "coverImageUrl": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=1200",
@@ -23,8 +23,8 @@
     },
     {
       "id": "w2",
-      "bride": "Thu Hà",
-      "groom": "Đức Anh",
+      "bride": "Nghĩa Tín",
+      "groom": "Anh Khoa Gay",
       "date": "2026-05-10",
       "time": "16:30",
       "location": "Trung tâm tiệc cưới White Palace, Thủ Đức",
